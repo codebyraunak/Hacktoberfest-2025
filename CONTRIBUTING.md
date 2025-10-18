@@ -8,8 +8,8 @@ Opensource is a [source code](https://en.wikipedia.org/wiki/Source_code) that is
 Register for the fest [here](https://hacktoberfest.com/) and send a minimum of 4 pull requests from oct 1st to oct 31st and win goodies like stickers, digitalbadges and many more exciting gifts.   
 This year, trees will be planted in the name of first 50k participants who complete the challenge.    
     
--Refer to the instructions below ⬇️ and sned 4 or more pull requests.   
--The pull requests can have very simple things like adding comments to the code, making it more readable, adding guidlines etc... and advanced things like creating a database, writing the backend code and modying the frontend. Refer to the last part of the page for advanced contributions.   
+-Refer to the instructions below ⬇️ and send 4 or more pull requests.   
+-The pull requests can have very simple things like adding comments to the code, making it more readable, adding guidlines etc... and advanced things like creating a database, writing the backend code and modifying the frontend. Refer to the last part of the page for advanced contributions.   
 
 # Instructions on how to contribute to Hacktoberfest.
 ```mermaid
